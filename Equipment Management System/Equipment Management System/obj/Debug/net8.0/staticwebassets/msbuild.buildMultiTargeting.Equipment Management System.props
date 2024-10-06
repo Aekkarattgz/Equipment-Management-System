@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Equipment Management System.props" />
+</Project>
